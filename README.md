@@ -35,7 +35,7 @@ Untuk menjalankan program utama:
 ## Struktur Fungsi
 
 - `salam(nama, kelas)` menampilkan salam dan kelas.
-- `luas_persegi_panjang(p, l)` mengembalikan hasil p × l.
+- `luas_persegi_panjang(p, l)` mengembalikan hasil p * l.
 - `jumlah_n(n)` mengembalikan jumlah bilangan 1 sampai n.
 - `statistik(data)` mengembalikan minimum, maksimum,
   dan rata-rata.
